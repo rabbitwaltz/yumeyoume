@@ -8,3 +8,10 @@ softly winging:
 soaring:
 
 freefalling:
+
+## do this now
+
+- add markdown file
+- drink more water
+- add html
+- publish to github pages
