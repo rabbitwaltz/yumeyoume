@@ -48,7 +48,7 @@ First, I was taught how to
 1. and then given some homework
 2. make a cheatsheet
 3. figure out how to use ```
-4. it's called a backtick!
+4. it's called a fence!
 ```
 
 An unordered list:
