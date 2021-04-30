@@ -116,4 +116,5 @@ and here's how
 | **bold** | ``` **bold** ``` |
 | *italic* | ``` *italic* ``` |
 | ```fence``` | ``` ```fence``` ``` |
+| ~~nope~~ | ``` ~~strikethrough~~ ```|
 ```
