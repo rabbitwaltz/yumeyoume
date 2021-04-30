@@ -85,7 +85,7 @@ This nice divide is written like this
 
 This cheatsheet would probably drive anyone else other than its author to distraction.
 
-[here's a non-sequitor!](https://rabbitwaltz.tumblr.com)
+[here's a non sequitur!](https://rabbitwaltz.tumblr.com)
 
 ```
 [this link](https://www.wasmadelikethis.fyi)
